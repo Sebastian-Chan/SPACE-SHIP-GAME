@@ -1,2 +1,2 @@
-Space Ship Game 
+# Space Ship Game 
 Space Ship Game is a 2D space-themed video game developed in Java using Swing for graphical rendering and Apache NetBeans as the development environment. The project focuses on implementing fundamental game development concepts, including object-oriented programming (OOP), game loops, graphics rendering, and event handling. Built with Java 23 and Maven, it serves as a practical application of Java programming and interactive game development.
